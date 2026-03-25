@@ -1,0 +1,21 @@
+# data
+data/
+*.csv
+
+# outputs / models
+outputs/
+submission.csv
+*.cbm
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# notebook / OS
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
